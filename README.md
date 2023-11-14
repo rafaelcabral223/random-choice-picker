@@ -4,9 +4,9 @@
 
 | :placard: Vitrine.Dev |                                       |
 | --------------------- | ------------------------------------- |
-| :sparkles: Nome       | **Event KeyCodes**          |
+| :sparkles: Nome       | **Random Choice Picker**          |
 | :label: Tecnologias   | html, css, javascript                 |
-| :rocket: URL          |  |
+| :rocket: URL          | https://pickerrandom.netlify.app |
 
 
 This application simplify decisions instantly by generating random choices with a tap. Perfect for choosing movies, restaurants, or anything else.
